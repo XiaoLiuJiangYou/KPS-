@@ -1,8 +1,0 @@
-存档使用方法：把对应版本的存档放入Ships文件夹下的VAB或SPH文件夹，
-进游戏后在右上角找到“打开”在SPH和VAB选项列表里寻找自己要加载的存档，找到后双击加载即可
-示范路径：D:\steam\steamapps\common\Kerbal Space Program\saves\默认\Ships
-提示：D代表盘符，你把游戏安装在哪个盘就写哪个，如安装在E盘，路径则为：
-E:\steam\steamapps\common\Kerbal Space Program\saves\默认\Ships
-提示：目录中的默认为游戏存档名，如果你的存档名为233，目录则为
-D:\steam\steamapps\common\Kerbal Space Program\saves\233\Ships
-注意：此方法仅支持Steam正版
